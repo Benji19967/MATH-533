@@ -1,9 +1,6 @@
 ---
 title: "MATH 533 - Assignment 1"
-output:
-  pdf_document: default
-  html_document:
-    df_print: paged
+output: rmarkdown::github_document
 ---
 
 ## Question 6
